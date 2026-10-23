@@ -15,7 +15,7 @@ The objective is to analyze student marks and attendance using Python. The progr
 - CSV: storage of student records and exported results.
 
 ## 4. Dataset Description
-The supplied `students.csv` contains 20 sample student records with Student_ID, Name, Department, Python, Mathematics, Data_Analysis, and Attendance. The data is for demonstration; use approved real data if required by the instructor.
+The supplied `students.csv` contains 20 sample student records with Student_ID, Name, Department, Python, Mathematics, Data_Analysis, and Attendance. 
 
 ## 5. Implementation
 1. `load_data()` reads the CSV with Pandas and checks required columns and numeric ranges.
@@ -57,5 +57,4 @@ The project provides practice in reading CSV files, validating columns, processi
 A key design decision is the pass rule: each student must score at least 40 in every subject. This is separate from the average-based grade.
 
 
-## Declaration
-This report describes a beginner-level Python data-analysis project based on the supplied course assignment. Run and review the program, capture your own screenshots, and make sure you can explain the code before submitting.
+
