@@ -39,13 +39,13 @@ The supplied `students.csv` contains 20 sample student records with Student_ID, 
 ## 7. Output / Screenshots
 Run `python main.py` and insert screenshots below:
 - **Screenshot 1:** Student table and class summary.
- (https://snipboard.io/b4yLva.jpg)
+![Screenshort 1](https://snipboard.io/b4yLva.jpg)
 - **Screenshot 2:** Subject-wise average marks.
-  (https://snipboard.io/EC6ZQc.jpg)
+  ![Screenshort 2](https://snipboard.io/EC6ZQc.jpg)
 - **Screenshot 3:** Students.csv.
-  (https://snipboard.io/joSNJC.jpg)
+  ![Screenshort 3](https://snipboard.io/joSNJC.jpg)
 - **Screenshot 4:** Exported `student_analysis_results.csv`.
-  (https://snipboard.io/Px4aqh.jpg)
+  ![Screenshort 4](https://snipboard.io/Px4aqh.jpg)
 
 
 ## 8. Final Outcome
