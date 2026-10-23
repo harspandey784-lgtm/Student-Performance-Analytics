@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,Data_Analysis,Attendance,Total,Average,Grade,Result
+STU001,Aarav Sharma,CSE,88,91,85,96,264,88.0,A,Pass
+STU002,Diya Verma,CSE,76,82,79,92,237,79.0,B,Pass
+STU003,Kabir Singh,AI,93,89,95,98,277,92.33,A+,Pass
+STU004,Ananya Gupta,CSE,67,73,70,88,210,70.0,B,Pass
+STU005,Vivaan Kumar,IT,54,61,58,81,173,57.67,D,Pass
+STU006,Isha Patel,AI,82,78,86,94,246,82.0,A,Pass
+STU007,Aditya Mishra,IT,39,52,48,76,139,46.33,E,Fail
+STU008,Meera Joshi,CSE,91,94,90,99,275,91.67,A+,Pass
+STU009,Arjun Das,AI,45,38,52,72,135,45.0,E,Fail
+STU010,Sara Khan,IT,72,69,75,89,216,72.0,B,Pass
+STU011,Rohan Yadav,CSE,61,57,64,85,182,60.67,C,Pass
+STU012,Priya Nair,AI,84,87,81,97,252,84.0,A,Pass
+STU013,Reyansh Roy,IT,33,41,37,68,111,37.0,F,Fail
+STU014,Aditi Jain,CSE,78,75,80,91,233,77.67,B,Pass
+STU015,Krishna Rao,AI,96,92,94,100,282,94.0,A+,Pass
+STU016,Saanvi Mehta,IT,58,64,62,83,184,61.33,C,Pass
+STU017,Dev Malhotra,CSE,48,46,55,74,149,49.67,E,Pass
+STU018,Myra Kapoor,AI,87,83,89,95,259,86.33,A,Pass
+STU019,Atharv Shah,IT,69,71,66,87,206,68.67,C,Pass
+STU020,Navya Reddy,CSE,80,85,77,93,242,80.67,A,Pass
