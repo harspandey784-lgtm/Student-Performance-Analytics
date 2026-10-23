@@ -37,22 +37,11 @@ student-performance-analytics/
 
 A student passes only if they score at least 40 marks in every subject. Attendance is summarized separately and does not affect pass/fail.
 
-## Setup and execution
-1. Install Python 3.
-2. Open this folder in a terminal.
-3. Install libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the program:
-   ```bash
-   python main.py
-   ```
 
 The program prints the analyzed student table, class summary, subject-wise averages, and top five performers. It writes detailed output to `student_analysis_results.csv`.
 
 ## Screenshots
-After running the program, add genuine screenshots of:
+After running the program, I Have add genuine screenshots of:
 1. The student performance table and class summary.
 2. Subject-wise averages.
 3. Top five performers.
